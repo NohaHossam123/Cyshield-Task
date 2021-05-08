@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: cadetblue;
+  }
+  
+  table {
+      width: 100%;
+    }
+  .noProduct{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+  }
